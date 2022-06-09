@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Final_Project_Final_Prak_Alpro"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project_Final_Prak_Alpro">
+				<Option output="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Final_Project_Final_Prak_Alpro.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project_Final_Prak_Alpro"/>
+					<CompileFile command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project_Final_Prak_Alpro/fast">
+				<Option output="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Final_Project_Final_Prak_Alpro.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/App/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project_Final_Prak_Alpro/fast"/>
+					<CompileFile command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/App/MinGW64/bin/mingw32-make.exe -f &quot;D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Programer/Kode CLion/Final Project Final Prak Alpro/main.c">
+			<Option target="Final_Project_Final_Prak_Alpro"/>
+		</Unit>
+		<Unit filename="D:/Programer/Kode CLion/Final Project Final Prak Alpro/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
