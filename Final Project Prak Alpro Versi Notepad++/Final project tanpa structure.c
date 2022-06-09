@@ -48,6 +48,7 @@ void menampilkanTodoList() {
         if (check != NULL){
             fputs(dataTodo->deadline,f);
         } else{
+            printf("\n");
             fputs(strcat(dataTodo->deadline, "\n"),f);
         }
         printf("\n");
@@ -180,7 +181,6 @@ void tampilanUtama() {
                 c=-1;
             }
         }
-        printf("---------------\n");
         fclose(f);
     } else{
         printf("Tidak ada file\n");
