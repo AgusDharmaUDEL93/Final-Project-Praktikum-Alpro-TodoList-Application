@@ -1,3 +1,0 @@
-"D:\App\CLion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Final_Project_Final_Prak_Alpro.dir/objects.a
-D:\App\MinGW64\bin\ar.exe cr CMakeFiles\Final_Project_Final_Prak_Alpro.dir/objects.a @CMakeFiles\Final_Project_Final_Prak_Alpro.dir\objects1.rsp
-D:\App\MinGW64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Final_Project_Final_Prak_Alpro.dir/objects.a -Wl,--no-whole-archive -o Final_Project_Final_Prak_Alpro.exe -Wl,--out-implib,libFinal_Project_Final_Prak_Alpro.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Final_Project_Final_Prak_Alpro.dir\linklibs.rsp

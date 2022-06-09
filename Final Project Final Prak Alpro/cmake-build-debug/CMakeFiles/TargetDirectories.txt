@@ -1,3 +1,0 @@
-D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/CMakeFiles/Final_Project_Final_Prak_Alpro.dir
-D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programer/Kode CLion/Final Project Final Prak Alpro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Tugas/Kuliah/Praktikum Algoritma dan Pemrograman/Final Project/GitHub/Folder Final Final Project Prak Alpro/Final Project With Structure/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
