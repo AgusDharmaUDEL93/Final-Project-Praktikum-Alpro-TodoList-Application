@@ -238,7 +238,6 @@ void tampilanMengedit() {
         if(sukses == false){
             printf("Maaf permintaan anda gagal\n");
         } else{
-            jumlah--;
             printf("Sukses mengedit\n");
         }
     } else{
